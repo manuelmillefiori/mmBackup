@@ -1,5 +1,5 @@
 [package]
-name = "mmBackup"
+name = "mmbackup"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,5 @@ edition = "2021"
 
 [dependencies]
 ssh2 = "0.9.4"
+tar = "0.4.24"
+flate2 = "1.0.21"
